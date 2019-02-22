@@ -4,4 +4,4 @@
 </br>2.歌曲排序</br>
 </br>3.查詢歌手功能</br>
 </br></br>
-![image]https://github.com/louis0819/SearchforMusic
+![image](https://github.com/louis0819/SearchforMusic)
